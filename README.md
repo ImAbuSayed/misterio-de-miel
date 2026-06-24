@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Misterio de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-miel/) |
+| **Get License** | [Music Rights & Licensing for Misterio de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `44ffe322dbdfbe5571613fa5ec5582c27d7a680d857071ba5dcb74c170395c01` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
