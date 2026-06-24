@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Misterio de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-miel/) |
+| **Get License** | [Get License For Misterio de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu dulce veneno me quita la calma
+> Misterio de miel que me enciende el alma
+> Tus labios me llaman en la oscuridad
+> Esta noche rompemos la gravedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
